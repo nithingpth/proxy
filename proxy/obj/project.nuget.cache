@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z9pZuQUZjCsCOaV2aXXxWHBKIL1Zq/hELOr5cAiGzn+iNvT99ziwy3c4s7o/tG9TjdRL97ffKKM09gCN4pz6cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nithinb\\OneDrive - Zenoti India Private Limited\\Desktop\\proxy\\proxy\\proxy\\proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nithinb\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
